@@ -1,6 +1,6 @@
 # Audio Annotation Portfolio - Yandong Zhu
 
-GitHub repository: to be added
+GitHub repository: https://github.com/zhyd3606-hub/Yandong_Zhu_xAI_Audio_Annotation
 
 This repository contains a small multilingual audio annotation portfolio prepared for the xAI AI Tutor - Chinese application.
 
